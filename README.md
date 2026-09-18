@@ -1,4 +1,7 @@
 # Library Management API
+![Swagger UI](screenshots/ss1.jpeg)
+
+
 
 A REST API for managing a small library's book collection, built with
 FastAPI and SQLite. It supports full CRUD on books plus borrow/return
