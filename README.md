@@ -22,6 +22,8 @@ actions with availability checks.
     uvicorn main:app --reload
 
 Open http://127.0.0.1:8000/docs
+🔗 **Live Demo:** https://library-api-qkjj.onrender.com/docs 
+*(Note: Hosted on Render's free tier. It may take 50 seconds to wake up on the first click!)*
 
 ## Endpoints
 
